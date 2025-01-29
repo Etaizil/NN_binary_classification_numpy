@@ -31,7 +31,13 @@ To get started, simply run the notebook on **Google Colab**. The workflow is eas
 
 The network trains on the **sign language hand digits** dataset and evaluates its classification performance. **Loss and accuracy** are plotted throughout both the training and testing processes. Each run starts training from scratch, as the model is not saved after training.
 
+For further details on the model design and results, please refer to the attached report, which provides a comprehensive analysis of the entire project.
+
+---
+
+Feel free to reach out if further clarification is needed!
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
